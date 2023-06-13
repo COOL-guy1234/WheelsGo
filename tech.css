@@ -1,0 +1,16 @@
+.about
+{
+    position: relative;
+    top: 10vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+    justify-items: center;
+    color: rgba(112, 112, 112, 0.75);
+    font-size: 40px;
+    transition: all 0.9s;
+    
+}
+
+.about:hover {
+    color: rgb(0, 0, 0);
+}

@@ -1,0 +1,30 @@
+.body
+{
+    padding: 0;
+}
+
+.coming-soon
+{
+    text-align: center;
+    align-items: center;
+    justify-content:center;
+    position: relative;
+    top: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-size: 100px;
+    color: rgba(114, 114, 114, 0.575);
+    rotate: 20deg;
+    transition: rotate 0.5s, text-shadow 0.3s, color 0.5s;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.212);
+    border: 2px solid black;
+    width: 80%;
+}
+
+.coming-soon:hover
+{
+    rotate: 22deg;
+    text-shadow: 6px 6px rgba(0, 0, 0, 0.212);
+    color: rgba(63, 62, 62, 0.575);
+    
+}

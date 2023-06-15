@@ -28,7 +28,7 @@ body{
     padding: 10px;
     border-radius: 5px;
     box-shadow: 3px 2px rgba(2, 2, 180, 0.315);
-    transition: all 0.3s ease;
+    transition: box-shadow 0.3s ease, padding 0.3s ease, background-image 0.3s ease, font-size 0.3s ease;
 
 }
 
